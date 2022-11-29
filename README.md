@@ -1,2 +1,3 @@
-# DZ3figma
-homeworm #3 css
+# Домашнее задание по третьему семинару 
+## Дата 29.11.2022 (вторник)
+### [работа с макетом на Figma](https://olegsamy.github.io/DZ3figma/#) 
